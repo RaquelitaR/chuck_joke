@@ -1,3 +1,5 @@
+﻿[![Build Status](https://travis-ci.org/RaquelitaR/chuck_joke.sv://travis-ci.org/RaquelitaR/chuck_joke.svg)
+
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2015-3)
 
